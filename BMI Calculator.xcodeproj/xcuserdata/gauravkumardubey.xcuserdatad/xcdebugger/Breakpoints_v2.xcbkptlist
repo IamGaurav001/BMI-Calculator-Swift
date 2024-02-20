@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B4D44C83-31C3-4658-B51E-1D54AE41F105"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "54777478-7F6B-4E63-885E-CAF06CBFA68D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BMI Calculator/Controllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "heightSilderChanged1(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "54777478-7F6B-4E63-885E-CAF06CBFA68D - 37d54a5b8517bbbe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Calculator.ViewController.heightSilderChanged(__C.UISlider) -&gt; ()"
+                  moduleName = "BMI Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gauravkumardubey/Desktop/11/BMI-Calculator-iOS13/BMI%20Calculator/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "54777478-7F6B-4E63-885E-CAF06CBFA68D - 37d54a5b8517bbbe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Calculator.ViewController.heightSilderChanged(__C.UISlider) -&gt; ()"
+                  moduleName = "BMI Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gauravkumardubey/Desktop/11/BMI-Calculator-iOS13/BMI%20Calculator/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "54777478-7F6B-4E63-885E-CAF06CBFA68D - 37d54a5b8517bb9f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Calculator.ViewController.heightSilderChanged(__C.UISlider) -&gt; ()"
+                  moduleName = "BMI Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gauravkumardubey/Desktop/11/BMI-Calculator-iOS13/BMI%20Calculator/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "54777478-7F6B-4E63-885E-CAF06CBFA68D - 37d54a5b8517ba3a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Calculator.ViewController.heightSilderChanged(__C.UISlider) -&gt; ()"
+                  moduleName = "BMI Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gauravkumardubey/Desktop/11/BMI-Calculator-iOS13/BMI%20Calculator/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "54777478-7F6B-4E63-885E-CAF06CBFA68D - 37d54a5b8517bb9f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Calculator.ViewController.heightSilderChanged(__C.UISlider) -&gt; ()"
+                  moduleName = "BMI Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gauravkumardubey/Desktop/11/BMI-Calculator-iOS13/BMI%20Calculator/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "54777478-7F6B-4E63-885E-CAF06CBFA68D - 4a1061d21772d9cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Calculator.ViewController.heightSilderChanged1(__C.UISlider) -&gt; ()"
+                  moduleName = "BMI Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gauravkumardubey/Desktop/11/BMI-Calculator-iOS13/BMI%20Calculator/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
